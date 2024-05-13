@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 ---
-<div><div>
-
+<div>
 <code><a href="https://www.python.org/" target="_blank"><img width="32" height="32" src="https://github.com/Rafael-Russo/Rafael-Russo/blob/main/img/python.png?raw=true"/></a></code>
 &nbsp; 
 <code><a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"><img width="32" height="32" src="https://github.com/Rafael-Russo/Rafael-Russo/blob/main/img/c.png?raw=true"/></a></code>
