@@ -2,7 +2,7 @@
 
 -----
 
-<div algin="center">
+<div align="center">
 
 <code><a href="https://www.python.org/" target="_blank"><img width="32" height="32" src="https://github.com/Rafael-Russo/Rafael-Russo/blob/main/img/python.png?raw=true"/></a></code>
 &nbsp; 
