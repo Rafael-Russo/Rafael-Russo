@@ -34,7 +34,7 @@
 &nbsp; 
 <code><a href="https://nodejs.org/en/" target="_blank"><img width="32" height="32" src="https://github.com/Rafael-Russo/Rafael-Russo/blob/main/img/nodejs.png?raw=true"/></a></code>
 &nbsp;
-<code><a href="https://newrelic.com/pt" target="_blank"><img <code><a href="https://dotnet.microsoft.com/en-us/" target="_blank"><img width="32" height="32" src="https://github.com/Rafael-Russo/Rafael-Russo/blob/main/img/dotnet.png?raw=true"/></a></code>
+<code><a href="https://dotnet.microsoft.com/en-us/" target="_blank"><img width="32" height="32" src="https://github.com/Rafael-Russo/Rafael-Russo/blob/main/img/dotnet.png?raw=true"/></a></code>
 &nbsp; 
 <code><a href="https://www.postman.com/" target="_blank"><img width="32" height="32" src="https://github.com/Rafael-Russo/Rafael-Russo/blob/main/img/postman.png?raw=true"/></a></code>
 &nbsp; 
