@@ -2,7 +2,7 @@
 
 -----
 
-<div>
+<div algin="center">
 
 <code><a href="https://www.python.org/" target="_blank"><img width="32" height="32" src="https://github.com/Rafael-Russo/Rafael-Russo/blob/main/img/python.png?raw=true"/></a></code>
 &nbsp; 
@@ -21,7 +21,8 @@
 <code><a href="https://www.w3schools.com/css/" target="_blank"><img width="32" height="32" src="https://github.com/Rafael-Russo/Rafael-Russo/blob/main/img/css.svg?raw=true"/></a></code>
 &nbsp; 
 <code><a href="https://www.w3schools.com/js/" target="_blank"><img width="32" height="32" src="https://github.com/Rafael-Russo/Rafael-Russo/blob/main/img/js.png?raw=true"/></a></code>
-&nbsp; 
+&nbsp;
+<br>
 <code><a href="https://pt-br.reactjs.org/" target="_blank"><img width="32" height="32" src="https://github.com/Rafael-Russo/Rafael-Russo/blob/main/img/react.png?raw=true"/></a></code>
 &nbsp; 
 <code><a href="https://docs.microsoft.com/pt-br/windows/win32/lwef/using-vbscript" target="_blank"><img width="32" height="32" src="https://github.com/Rafael-Russo/Rafael-Russo/blob/main/img/vbs.png?raw=true"/></a></code>
