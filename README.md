@@ -42,8 +42,7 @@
 <code><a href="https://insomnia.rest/" target="_blank"><img width="32" height="32" src="https://github.com/Rafael-Russo/Rafael-Russo/blob/main/img/insomnia.png?raw=true"/></a></code>
 &nbsp;
 <code><a href="https://git-scm.com/" target="_blank"><img width="32" height="32" src="https://github.com/Rafael-Russo/Rafael-Russo/blob/main/img/git.png?raw=true"/></a></code>
-&nbsp; 
-<code><a href="https://www.jetbrains.com/pt-br/pycharm/download/" target="_blank"><img width="32" height="32" src="https://github.com/Rafael-Russo/Rafael-Russo/blob/main/img/pc.png?raw=true"/></a></code>
+&nbsp;
 &nbsp;
 <code><a href="https://code.visualstudio.com/" target="_blank"><img width="32" height="32" src="https://github.com/Rafael-Russo/Rafael-Russo/blob/main/img/vs.png?raw=true"/></a></code>
 &nbsp;
