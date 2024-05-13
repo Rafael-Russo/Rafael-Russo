@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaopauloaramuni&theme=github_dark"/>
+<img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rafael-Russo&theme=github_dark"/>
+<img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rafael-Russo&theme=github_dark"/>
+</div>
+
 <!--
 **Rafael-Russo/Rafael-Russo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
