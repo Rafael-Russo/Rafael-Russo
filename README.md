@@ -3,8 +3,6 @@
 ---
 <div><div>
 
-<code><a href="https://www.gnu.org/software/bash/" target="_blank"><img height="32" src="https://github.com/Rafael-Russo/Rafael-Russo/blob/main/img/bash.png?raw=true"/></a></code>
-&nbsp; 
 <code><a href="https://www.python.org/" target="_blank"><img width="32" height="32" src="https://github.com/Rafael-Russo/Rafael-Russo/blob/main/img/python.png?raw=true"/></a></code>
 &nbsp; 
 <code><a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"><img width="32" height="32" src="https://github.com/Rafael-Russo/Rafael-Russo/blob/main/img/c.png?raw=true"/></a></code>
@@ -14,18 +12,8 @@
 <code><a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"><img width="32" height="32" src="https://github.com/Rafael-Russo/Rafael-Russo/blob/main/img/csharp.png?raw=true"/></a></code>
 &nbsp; 
 <code><a href="https://www.java.com/pt-BR/" target="_blank"><img width="32" height="32" src="https://github.com/Rafael-Russo/Rafael-Russo/blob/main/img/java.png?raw=true"/></a></code>
-&nbsp; 
-<code><a href="https://openjfx.io/" target="_blank"><img height="32" src="https://github.com/Rafael-Russo/Rafael-Russo/blob/main/img/javafx.png?raw=true"/></a></code>
-&nbsp; 
-<code><a href="https://www.primefaces.org/" target="_blank"><img width="32" height="32" src="https://github.com/Rafael-Russo/Rafael-Russo/blob/main/img/primefaces.png?raw=true"/></a></code>
 &nbsp;
 <code><a href="https://spring.io/" target="_blank"><img width="32" height="32" src="https://github.com/Rafael-Russo/Rafael-Russo/blob/main/img/spring.png?raw=true"/></a></code>
-&nbsp;
-<code><a href="https://www.playframework.com/" target="_blank"><img width="48" height="32" src="https://github.com/Rafael-Russo/Rafael-Russo/blob/main/img/play.png?raw=true"/></a></code>
-&nbsp;
-<code><a href="https://www.scala-lang.org/" target="_blank"><img width="32" height="32" src="https://github.com/Rafael-Russo/Rafael-Russo/blob/main/img/scala.png?raw=true"/></a></code>
-&nbsp;
-<code><a href="https://www.jenkins.io/" target="_blank"><img width="32" height="32" src="https://github.com/Rafael-Russo/Rafael-Russo/blob/main/img/jenkins.svg?raw=true"/></a></code>
 &nbsp;
 <code><a href="https://www.w3schools.com/html/" target="_blank"><img width="32" height="32" src="https://github.com/Rafael-Russo/Rafael-Russo/blob/main/img/html.svg?raw=true"/></a></code>
 &nbsp; 
@@ -43,11 +31,7 @@
 &nbsp; 
 <code><a href="https://www.mongodb.com/pt-br" target="_blank"><img width="32" height="32" src="https://github.com/Rafael-Russo/Rafael-Russo/blob/main/img/mongodb.png?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://dbeaver.io/" target="_blank"><img width="32" height="32" src="https://github.com/Rafael-Russo/Rafael-Russo/blob/main/img/dbeaver.png?raw=true"/></a></code>
-&nbsp; 
 <code><a href="https://nodejs.org/en/" target="_blank"><img width="32" height="32" src="https://github.com/Rafael-Russo/Rafael-Russo/blob/main/img/nodejs.png?raw=true"/></a></code>
-&nbsp;
-<code><a href="https://nextjs.org/" target="_blank"><img width="32" height="32" src="https://github.com/Rafael-Russo/Rafael-Russo/blob/main/img/nextjs.png?raw=true"/></a></code>
 &nbsp;
 <code><a href="https://jestjs.io/pt-BR/" target="_blank"><img width="30" height="32" src="https://github.com/Rafael-Russo/Rafael-Russo/blob/main/img/jest.png?raw=true"/></a></code>
 &nbsp;
