@@ -51,10 +51,12 @@
 
 -----
 
-<div>
-<img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rafael-Russo&theme=github_dark"/>
-<img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rafael-Russo&theme=github_dark"/>
-<img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rafael-Russo&theme=github_dark"/>
+<div align="center">
+<img alt="GitHub Details" height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rafael-Russo&theme=github_dark"/>
+</div>
+<div align="center">
+<img alt="GitHub Stats" height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rafael-Russo&theme=github_dark"/>
+<img alt="GitHub Top Langs" height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rafael-Russo&theme=github_dark"/>
 </div>
 
 <!--
